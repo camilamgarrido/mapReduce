@@ -32,4 +32,24 @@ Este repositorio contiene una serie de ejercicios prácticos para implementar y 
 
 La estructura del repositorio está organizada de la siguiente manera:
 
-mapreduce/ │ ├── ex1/ │ ├── mapper.py │ ├── reducer.py │ ├── resultado.txt │ ├── ex2/ │ ├── mapper.py │ ├── reducer.py │ ├── resultado.txt │ ├── ex3/ │ ├── mapper.py │ ├── reducer.py │ ├── resultado.txt │ ├── ex4/ │ ├── mapper.py │ ├── reducer.py │ ├── resultado.txt │ ├── ex5/ │ ├── mapper.py │ ├── reducer.py │ ├── resultado.txt
+mapreduce/ 
+    ├── ex1/ 
+      ├── mapper.py 
+      ├── reducer.py 
+      ├── resultado.txt 
+    ├── ex2/ 
+      ├── mapper.py 
+      ├── reducer.py  
+      ├── resultado.txt 
+    ├── ex3/  
+      ├── mapper.py 
+      ├── reducer.py 
+      ├── resultado.txt 
+    ├── ex4/ 
+      ├── mapper.py 
+      ├── reducer.py 
+      ├── resultado.txt 
+    ├── ex5/ 
+      ├── mapper.py 
+      ├── reducer.py 
+      ├── resultado.txt
