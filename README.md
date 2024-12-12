@@ -1,26 +1,32 @@
 # Introducción a MapReduce en Hadoop
 Este repositorio contiene una serie de ejercicios prácticos para implementar y ejecutar algoritmos de MapReduce utilizando Hadoop. Los ejercicios están organizados en carpetas que abordan diferentes objetivos relacionados con el procesamiento distribuido de datos.
 
-# Contenido carpetas
+# Contenido de Carpetas
 
-Ex1
-  -mapper.py
-  -reducerpy
-  -resultado.py
-Ex2
-  -mapper.py
-  -reducerpy
-  -resultado.py
-Ex3
-  -mapper.py
-  -reducerpy
-  -resultado.py
-Ex4
-  -mapper.py
-  -reducerpy
-  -resultado.py
-Ex5
+## Ex1
+- `mapper.py`
+- `reducerpy`
+- `resultado.py`
 
+## Ex2
+- `mapper.py`
+- `reducerpy`
+- `resultado.py`
+
+## Ex3
+- `mapper.py`
+- `reducerpy`
+- `resultado.py`
+
+## Ex4
+- `mapper.py`
+- `reducerpy`
+- `resultado.py`
+
+## Ex5
+- `mapper.py`
+- `reducerpy`
+- `resultado.py`
 
 
 ## Ejercicios
@@ -51,28 +57,7 @@ Ex5
 - **Instrucciones**:
    1. Posicionarte en la carpeta **ex5** y utilizar el comando "cat * resultado.txt" para ver la solución del ejercicio
 
-## Estructura del Repositorio
 
-La estructura del repositorio está organizada de la siguiente manera:
 
-mapreduce/ 
-    ├── ex1/ 
-      ├── mapper.py 
-      ├── reducer.py 
-      ├── resultado.txt 
-    ├── ex2/ 
-      ├── mapper.py 
-      ├── reducer.py  
-      ├── resultado.txt 
-    ├── ex3/  
-      ├── mapper.py 
-      ├── reducer.py 
-      ├── resultado.txt 
-    ├── ex4/ 
-      ├── mapper.py 
-      ├── reducer.py 
-      ├── resultado.txt 
-    ├── ex5/ 
-      ├── mapper.py 
-      ├── reducer.py 
-      ├── resultado.txt
+
+
