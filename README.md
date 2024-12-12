@@ -6,27 +6,27 @@ Este repositorio contiene una serie de ejercicios prácticos para implementar y 
 ## Ex1
 - `mapper.py`
 - `reducerpy`
-- `resultado.py`
+- `resultado.txt`
 
 ## Ex2
 - `mapper.py`
 - `reducerpy`
-- `resultado.py`
+- `resultado.txt`
 
 ## Ex3
 - `mapper.py`
 - `reducerpy`
-- `resultado.py`
+- `resultado.txt`
 
 ## Ex4
 - `mapper.py`
 - `reducerpy`
-- `resultado.py`
+- `resultado.txt`
 
 ## Ex5
 - `mapper.py`
 - `reducerpy`
-- `resultado.py`
+- `resultado.txt`
 
 
 ## Ejercicios
@@ -58,6 +58,10 @@ Este repositorio contiene una serie de ejercicios prácticos para implementar y 
    1. Posicionarte en la carpeta **ex5** y utilizar el comando "cat * resultado.txt" para ver la solución del ejercicio
 
 
+## Conclusión
 
+Estos ejercicios ofrecen una introducción práctica al uso de MapReduce con Hadoop para procesar datos distribuidos.
+
+---
 
 
