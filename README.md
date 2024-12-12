@@ -1,5 +1,28 @@
 # Introducción a MapReduce en Hadoop
 Este repositorio contiene una serie de ejercicios prácticos para implementar y ejecutar algoritmos de MapReduce utilizando Hadoop. Los ejercicios están organizados en carpetas que abordan diferentes objetivos relacionados con el procesamiento distribuido de datos.
+
+# Contenido carpetas
+
+Ex1
+  -mapper.py
+  -reducerpy
+  -resultado.py
+Ex2
+  -mapper.py
+  -reducerpy
+  -resultado.py
+Ex3
+  -mapper.py
+  -reducerpy
+  -resultado.py
+Ex4
+  -mapper.py
+  -reducerpy
+  -resultado.py
+Ex5
+
+
+
 ## Ejercicios
 
 ### **Ejercicio 1.1 en carpeta ex1**
